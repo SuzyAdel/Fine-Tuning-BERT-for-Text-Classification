@@ -18,3 +18,4 @@ This project involves fine-tuning a pre-trained BERT (Bidirectional Encoder Repr
 - Full Evaluation: Includes confusion matrix and custom sentence testing
 
 - Reproducibility: All random seeds set
+![image](https://github.com/user-attachments/assets/7a5ccc85-ea82-42e9-908c-e790972804d4)
